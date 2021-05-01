@@ -1,0 +1,53 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0532617002
+D PicoBlade SMT RA PKG 0.38 GOLD 2P
+F https://www.molex.com/pdm_docs/sd/532617002_sd.pdf
+$ENDCMP
+#
+$CMP 502352-0200
+D Molex DURACLIK 502352, 2mm Pitch, 2 Way, 1 Row, Right Angle PCB Header, Surface Mount
+F https://www.molex.com/pdm_docs/sd/5023520200_sd.pdf
+$ENDCMP
+#
+$CMP 502430-4010
+D Molex SLIMSTACK Series, Series Number 502430, 0.4mm Pitch 40 Way 2 Row Straight PCB Header, Solder Termination, 0.3A
+F https://www.molex.com/pdm_docs/sd/5024304010_sd.pdf
+$ENDCMP
+#
+$CMP 502430-4030
+D Board to Board & Mezzanine Connectors 0.4 B/B Plug Assy W/Tape 40P EmbsTpPkg
+F http://www.mouser.com/datasheet/2/276/5024304030_PCB_HEADERS-179301.pdf
+$ENDCMP
+#
+$CMP 503566-1102
+D FFC & FPC Connectors Easy-On .3mm FPC Conn RA BC 11Ckt
+F https://componentsearchengine.com//503566-1102.pdf
+$ENDCMP
+#
+$CMP BQ24193RGET
+D I2C Controlled 4.5A Single Cell USB/Adaptor Charger w/ Narrow VDC Power Path
+F http://www.ti.com/lit/gpn/BQ24193
+$ENDCMP
+#
+$CMP CYW4356XKWBG
+D Single-Chip 5G WiFi IEEE 802.11ac 22 MAC/ Baseband/Radio with Integrated Bluetooth 5.0
+F https://dl.dropboxusercontent.com/s/uayp47ltaz1k4hy/CYW4356-CypressSemiconductor%20%281%29.pdf?dl=0
+$ENDCMP
+#
+$CMP PI3USB30532ZLE
+D IC MUX/DEMUX USB 3.0 40TQFN
+F https://www.digchip.com/datasheets/download_datasheet.php?id=8853462&part-number=PI3USB30532ZLE
+$ENDCMP
+#
+$CMP SSM6P49NU,LF
+D MOSFET SM Sig MOS 2 in 1 P-Ch -4A -20V 12V GS
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=6578&prodName=SSM6P49NU
+$ENDCMP
+#
+$CMP switch_lcd
+D 0.3mmPitch RA SMT Bottom contact One-touch lock
+F https://www.mouser.co.uk/datasheet/2/909/6844-1381203.pdf
+$ENDCMP
+#
+#End Doc Library
